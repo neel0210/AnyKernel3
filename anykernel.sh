@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Sound Pillar
+kernel.string=MIST PILLAR
 do.devicecheck=1
 do.modules=0
 do.systemless=0
@@ -15,7 +15,7 @@ device.name2=RMX2170
 device.name3=
 device.name4=
 device.name5=
-supported.versions=11.0-13.0
+supported.versions=11.0-14.0
 '; } # end properties
 
 # shell variables
