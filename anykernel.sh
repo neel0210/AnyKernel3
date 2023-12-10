@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Sound Pillar
+kernel.string=Rasengan
 do.devicecheck=1
 do.modules=0
 do.systemless=0
