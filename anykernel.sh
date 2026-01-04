@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=
-do.devicecheck=0
+kernel.string=-Tanjiro-Dev-V1-
+do.devicecheck=1
 do.modules=1
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=
-device.name2=
-device.name3=
+device.name1=a24
+device.name2=SM-A245F
+device.name3=SM-A245M
 device.name4=
 device.name5=
 supported.versions=11.0-16.0
